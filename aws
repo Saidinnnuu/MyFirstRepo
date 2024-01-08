@@ -1,2 +1,27 @@
-AWS stands for Amazon web service.
-It the best cloud platform among all cloud platforms.
+The project aims at designing an advanced home automation system using normal web
+server and Wi-Fi technology. The devices can be switched ON/OFF and sensors can be read
+usinga Personal Computer (PC) through Wi-Fi. Automation is the most frequently spelled term
+in the field of electronics.
+The hunger for automation brought many revolutions in the existing
+technologies. These had greater importance than any other technologies due to its user-friendly
+nature.
+These can be used as a replacement of the existing switches in home which produces
+sparks and also results infare accidents in few situations. Considering the advantages of Wi-Fi
+anadvanced automation system was developed to control the appliances in the house. Wi-Fi 
+(Shortfor Wireless Fidelity) is a wireless technology that uses radio frequency to transmit data 
+through the air. Wi-Fi has initial speeds of 1mbps to 2mbps.
+Wi-Fi transmits data in the frequency band of 2.5 GHz. It implements the concept of frequency division multiplexing technology.
+Range of Wi-Fi technology is 50-300 feet. The controlling device for the 
+automation in the project is an Arduino UNO.
+The data sent from PC over Wi-Fi will be 
+received by Wi-Fi module connected to Arduino UNO.
+Arduino UNO reads the data and decides the switching action of electrical devices connected to it through Relays.
+The main objective of this project is to develop a home control system using Node MCU
+board with Internet being remotely controlled by any Android or IOS operating system. As
+technology is advancing so houses are also getting smarter. Modern houses are gradually shifting
+from conventional switches to centralized controlsystem, involving remote controlled switches.
+Presently, conventional wall switches located in different parts of the house makes it difficult for
+the user to go near them to operate. Even more it becomes more difficult for the elderly or
+physically handicapped people to do so. Remote controlled home automation system provides a
+most modern solution with smart phones.
+
